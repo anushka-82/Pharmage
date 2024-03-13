@@ -52,8 +52,17 @@ strong {
   color: #ff5733;
 }
 
-.add-to-cart, .remove-from-cart {
+.add-to-cart,  {
   background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+remove-from-cart{
+   background-color: #FFA500;
   color: #fff;
   border: none;
   padding: 5px 10px;
